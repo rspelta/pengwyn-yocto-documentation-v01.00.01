@@ -11,7 +11,7 @@ Welcome to Pengwyn SDK's documentation!
 
 .. only:: html
 
-| This documentation is about the Yocto based SDK **v01.00.01** for the Pengwyn board, prior version **v01.00.00** you can find at `architechboards-yocto-v01.00.00.readthedocs.org <https://architechboards-yocto-v01.00.00.readthedocs.org/>`_.
+| This documentation is about the Yocto based SDK **v01.00.01** for the Pengwyn board, prior version **v01.00.00** you can find at `https://architechboards-yocto-v010000.readthedocs.org <https://architechboards-yocto-v010000.readthedocs.org/en/latest/>`_.
 | The SDK is provided by means of an already configured VirtualBox virtual machine, inside the virtual machine everything has already been configured for you so you don't waste time trying to understand every single detail of every single software component from the beginning.
 | If you are a new user of the Yocto based SDK we suggest you to read the
 
